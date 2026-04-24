@@ -2,5 +2,6 @@ Git の練習をしています。
 基本的なワークフローを学びます
 git add
 git commit
-
+git status
+git diff
 変更を加えました
